@@ -67,6 +67,7 @@ display: block;
  width: 575px;
  padding-top: 13px;
  padding-bottom: 13px;
+ font-size: 14px;
 background-color: white;
 box-shadow: 1px 3px 4px -2px rgb(219, 216, 216);
 }
